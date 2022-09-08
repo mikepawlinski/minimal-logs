@@ -1,0 +1,8 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo \"Error: none\" && exit 1",
+    "wpe-build": "./build.sh && exit 1"
+  }
+}
