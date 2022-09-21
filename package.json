@@ -2,7 +2,7 @@
   "name": "myapp",
   "version": "1.0.0",
   "scripts": {
-    "start": "echo \"Error: none\" && exit 0",
+    "start": "echo \"Error: none\"",
     "wpe-build": "./build.sh && exit 0"
   }
 }
